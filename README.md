@@ -1,1 +1,5 @@
 # 基于光流法的动态语义地图构建
+
+# 语义地图综述
+针对地图中实例的分割
+[基于视觉SLAM的物体实例识别与语义地图构建](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=HZLG201909009&uid=WEEvREcwSlJHSldRa1FhdXNXaEhobnVuRkVVTkdQaENycDFtMEFKdW05RT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzE3NzMzcVRyV00xRnJDVVJMT2VaK1J1RmlEaFVMM1BMVGZIYWJHNEg5ak1wbzlGYllSOGVYMUx1eFlTN0RoMVQ=)
